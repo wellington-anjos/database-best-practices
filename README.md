@@ -1,4 +1,4 @@
-# Melhores práticas para modelagem e implantação de banco de dados
+# Melhores práticas para banco de dados
 ## Nome completo
 * SQL: ``VARCHAR(126)``
 * Eloquent: ``$table->string('name', 126);``
