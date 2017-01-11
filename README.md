@@ -9,7 +9,7 @@
 
 ## E-mail (para login e outros usos)
 * SQL: ``VARCHAR(254)``
-* Eloquent: ``$table->string('private_email', 254);``
+* Eloquent: ``$table->string('email', 254);``
 
 ## Senha
 * SQL: ``VARCHAR(60)``
