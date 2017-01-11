@@ -14,3 +14,8 @@
 ## Senha
 * SQL: ``VARCHAR(60)``
 * Eloquent: ``$table->string('password', 60);``
+
+## Senha
+
+* SQL: ``VARCHAR(10)``
+* Eloquent: ``$table->string('crm', 10);``
